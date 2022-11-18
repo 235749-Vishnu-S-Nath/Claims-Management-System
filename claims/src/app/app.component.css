@@ -1,0 +1,13 @@
+.container{
+    height: 100vh;
+    overflow: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.username{
+    display: flex;
+}
+.password{
+    display: flex;
+}

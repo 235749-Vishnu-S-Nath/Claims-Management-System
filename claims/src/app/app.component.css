@@ -5,9 +5,20 @@
     justify-content: center;
     align-items: center;
 }
-.username{
+.card{
+    width: 70vh;
+    height: 40vh;
     display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.username{
+    margin-bottom: 10px;
+}
+.submitButton{
+    margin-top: 2em;
+    opacity: 50%;
 }
 .password{
-    display: flex;
+    margin-top: 10px;
 }

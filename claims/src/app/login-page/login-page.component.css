@@ -1,0 +1,24 @@
+.container{
+    background-color: rgb(200, 244, 250);
+    height: 100vh;
+    overflow: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.card{
+    width: 70vh;
+    height: 40vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.username{
+    margin-bottom: 10px;
+}
+.submitButton{
+    margin-top: 2em;
+}
+.password{
+    margin-top: 10px;
+}

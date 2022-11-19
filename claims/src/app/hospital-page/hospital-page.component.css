@@ -1,0 +1,25 @@
+.container{
+    background-color: rgb(200, 244, 250);
+    height: 100vh;
+    overflow: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.card{
+    padding: 30px;
+}
+.contentContainer{
+    display: flex;
+}
+.submitButton{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.treatmentSection{
+    margin: 40px;
+}
+.policySection{
+    margin: 40px;
+}
